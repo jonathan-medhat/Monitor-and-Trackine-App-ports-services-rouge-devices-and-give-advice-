@@ -1,0 +1,25 @@
+Running as user "root" and group "root". This could be dangerous.
+Capturing on 'eth0'
+20 packets captured
+    1 0.000000000 192.168.1.21 → 79.133.171.13 TLSv1.2 4319 Application Data
+    2 0.000677683 192.168.1.21 → 79.133.171.13 TLSv1.2 3110 Application Data
+    3 0.001434406 192.168.1.21 → 79.133.171.13 TLSv1.2 2418 Application Data
+    4 0.002355503 192.168.1.21 → 79.133.171.13 TLSv1.2 2418 Application Data
+    5 0.002915875 192.168.1.21 → 79.133.171.13 TLSv1.2 4330 Application Data
+    6 0.003535402 192.168.1.21 → 79.133.171.13 TLSv1.2 3716 Application Data
+    7 0.004101670 192.168.1.21 → 79.133.171.13 TLSv1.2 4174 Application Data
+    8 0.004573510 192.168.1.21 → 79.133.171.13 TLSv1.2 2450 Application Data
+    9 0.004773557 192.168.1.21 → 79.133.171.13 TLSv1.2 2552 Application Data
+   10 0.005351216 192.168.1.21 → 79.133.171.13 TLSv1.2 2800 Application Data
+   11 0.005576644 192.168.1.21 → 79.133.171.13 TLSv1.2 6587 Application Data
+   12 0.005755707 192.168.1.21 → 79.133.171.13 TLSv1.2 2442 Application Data
+   13 0.006263420 192.168.1.21 → 79.133.171.13 TLSv1.2 2428 Application Data
+   14 0.006593468 192.168.1.21 → 79.133.171.13 TLSv1.2 3802 Application Data
+   15 0.006873554 192.168.1.21 → 79.133.171.13 TLSv1.2 2450 Application Data
+   16 0.007292135 192.168.1.21 → 79.133.171.13 TLSv1.2 6556 Application Data
+   17 0.008994335 192.168.1.21 → 79.133.171.13 TLSv1.2 7021 Application Data
+   18 0.025589168 192.168.1.21 → 79.133.171.13 TLSv1.2 2676 Application Data
+   19 0.025778823 192.168.1.21 → 79.133.171.13 TLSv1.2 2490 Application Data
+   20 3.761664659 192.168.1.21 → 79.133.171.13 TLSv1.2 6858 [TCP Previous segment not captured] , Application Data
+Running as user "root" and group "root". This could be dangerous.
+Capturing on 'eth0'
